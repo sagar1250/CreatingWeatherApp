@@ -2,6 +2,8 @@
 
 ##index.html - code
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +11,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>My Weather App</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-    KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
 </head>
 
 <body>
@@ -225,6 +227,8 @@
 
 
 
+
+
 ## script.js - code
 
 const options = {
@@ -264,6 +268,8 @@ submit.addEventListener("click", (e) => {
 getWeather("Delhi")
 
 
+
+#Output
 
 
 ![WeatherOutPutPic](https://user-images.githubusercontent.com/67116952/233889262-c9149bd3-6b7c-440a-adc0-a5a82ee6e4da.png)
